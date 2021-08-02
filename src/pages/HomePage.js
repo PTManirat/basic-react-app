@@ -56,7 +56,7 @@ const HomePage = () => {
                     <div className="container">
                         <h1 className="display-3">Welcome</h1>
                         <p>
-                            This website develop by React language. <FiSmile color="brown" size="2em" />
+                            This website develop by React language test. <FiSmile color="brown" size="2em" />
                         </p>
                         <p>
                             {/* <a className="btn btn-primary btn-lg" href="#" role="button">
